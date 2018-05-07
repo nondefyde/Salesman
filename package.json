@@ -1,0 +1,17 @@
+{
+    "name": "sales-man-algorithm",
+    "description": "This is a travellers sales man algorithm with pick off and drop off considered as on whole trip",
+    "version": "0.0.0",
+    "license": "MIT",
+    "scripts": {
+        "start": "tsc src/sales-man node src/sales-man.js"
+    },
+    "private": true,
+    "dependencies": {
+        "npm": "^5.8.0"
+    },
+    "devDependencies": {
+        "tslint": "~5.9.1",
+        "typescript": "~2.5.3"
+    }
+}
